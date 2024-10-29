@@ -158,7 +158,7 @@ CREATE TABLE `blog_members` (
 --
 
 INSERT INTO `blog_members` (`memberID`, `username`, `password`, `email`) VALUES
-(1, 'alavuvu', '$2y$10$3RU/Yl/UC70FmrPED83I8.BV18FzAp0ELLYU47ituQeS8cijqwv2K', 'alavuvu@gmail.com');
+(1, 'phucnd', '$2y$10$DJIR6GnGTn4JC5oWNk.Zqu/wMA0MxWc9N19rYvUasCfOe95bSGrb6', 'phucnd@gmail.com');
 
 -- --------------------------------------------------------
 

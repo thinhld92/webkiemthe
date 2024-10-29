@@ -34,8 +34,8 @@ $config['authentication'] = function () {
 // https://ckeditor.com/docs/ckfinder/ckfinder3-php/configuration.html#configuration_options_licenseKey
 //Link get License keygen miễn phí: https://ganlvtech.github.io/ckfinder_keygen/ckfinder_keygen.html
 
-$config['licenseName'] = 'kiemthehanthien.com';
-$config['licenseKey']  = 'GTDT6FKU7SDSF8P21G4QPXC8D7RHN';
+$config['licenseName'] = 'jxthiendieu.com';
+$config['licenseKey']  = 'H3C36JMUGMK91HAVRQPCJ82H82DHQ';
 
 /*============================ CKFinder Internal Directory ============================*/
 // https://ckeditor.com/docs/ckfinder/ckfinder3-php/configuration.html#configuration_options_privateDir
