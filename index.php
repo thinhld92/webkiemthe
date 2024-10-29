@@ -462,7 +462,7 @@
 				<div id="fb-root"></div>
 				<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v16.0" nonce="haLN655F"></script>
 				
-<div class="fb-page" data-href="https://www.facebook.com/kiemthehanthien2009" data-tabs="timeline" data-width="210" data-height="480" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/jxthiendieu/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jxthiendieu/">Võ Lâm Thiên Điểu</a></blockquote></div>				
+<div class="fb-page" data-href="https://www.facebook.com/jxthiendieu" data-tabs="timeline" data-width="210" data-height="480" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/jxthiendieu/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jxthiendieu/">Võ Lâm Thiên Điểu</a></blockquote></div>				
 				
 				
 			</div>

@@ -95,7 +95,7 @@ CREATE TABLE `blog_cauhinh` (
 --
 
 INSERT INTO `blog_cauhinh` (`title`, `descr`, `keywords`, `taigame`, `link_dangky`, `link_napthe`, `link_hotro`, `link_congdong`, `tips`, `phone`, `og_image`, `link_huongdan`, `link_huongdan_nap`, `link_datquyenvip`, `link_auto`) VALUES
-('Võ Lâm Thiên Điểu', 'Phiên Bản 2009, Khai Mở Máy Chủ Chân Long Kiếm 11h00 Ngày 19/03/2023 ', 'Võ Lâm Thiên Điểu, Võ Lâm CTC, Phiên bản 2005 , cổ trang', 'https://jxthiendieu.com/huong-dan-tai-va-cai-dat-game.html', 'https://jxthiendieu.com/taikhoan/register.html								', 'https://jxthiendieu.com/taikhoan/login.html', 'https://www.facebook.com/kiemthehanthien2009', 'https://www.facebook.com/groups/kiemthehanthien/', '', '999 999 999', 'https://jxthiendieu.com/static/assets/imgs/new600x315.jpg', 'https://jxthiendieu.com/', 'https://jxthiendieu.com/su-kien-tich-luy-nap-the.html', 'https://jxthiendieu.com/su-kien-tich-luy-nap-the.html', 'https://jxthiendieu.com/');
+('Võ Lâm Thiên Điểu', 'Phiên Bản 2009, Khai Mở Máy Chủ Ba Lăng Huyện 19h00 Ngày 08/11/2024 ', 'Võ Lâm Thiên Điểu, Võ Lâm CTC, Phiên bản 2005 , cổ trang', 'https://jxthiendieu.com/huong-dan-tai-va-cai-dat-game.html', 'https://jxthiendieu.com/taikhoan/register.html								', 'https://jxthiendieu.com/taikhoan/login.html', 'https://www.facebook.com/kiemthehanthien2009', 'https://www.facebook.com/groups/kiemthehanthien/', '', '999 999 999', 'https://jxthiendieu.com/static/assets/imgs/new600x315.jpg', 'https://jxthiendieu.com/', 'https://jxthiendieu.com/su-kien-tich-luy-nap-the.html', 'https://jxthiendieu.com/su-kien-tich-luy-nap-the.html', 'https://jxthiendieu.com/');
 
 -- --------------------------------------------------------
 
