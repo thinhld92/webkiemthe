@@ -1,0 +1,48 @@
+#    Mod_security can interfere with uploading of content such as attachments. If you
+#    cannot attach files, remove the "#" from the lines below.
+#<IfModule mod_security.c>
+#    SecFilterEngine Off
+#    SecFilterScanPOST Off
+#</IfModule>
+ 
+ErrorDocument 401 404.php
+ErrorDocument 403 default
+ErrorDocument 404 default
+ErrorDocument 500 default
+ 
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+	Options All -Indexes
+    #    If you are having problems with the rewrite rules, remove the "#" from the
+    #    line that begins "RewriteBase" below. You will also have to change the path
+    #    of the rewrite to reflect the path to your XenForo installation.
+    #RewriteBase /xenforo
+ 
+    #    This line may be needed to enable WebDAV editing with PHP as a CGI.
+    #RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+ 
+    #RewriteCond %{REQUEST_FILENAME} -f [OR]
+    #RewriteCond %{REQUEST_FILENAME} -l [OR]
+    #RewriteCond %{REQUEST_FILENAME} -d
+    #RewriteRule ^.*$ - [NC,L]
+    #RewriteRule ^(data/|js/|styles/|install/|favicon\.ico|crossdomain\.xml|robots\.txt) - [NC,L]
+    #RewriteRule ^.*$ index.php [NC,L]
+	RewriteRule ^logout.html$    	thoat.php
+    RewriteRule ^security.html$    	security.php
+    RewriteRule ^change-password.html$    	changepass.php
+    RewriteRule ^topup.html$    	topup.php
+    RewriteRule ^momo.html$    	momo.php
+    RewriteRule ^atm.html$    	atm.php
+    RewriteRule ^card.html$    	card.php
+    RewriteRule ^history.html$    	history.php
+    RewriteRule ^login.html$    	login.php
+	RewriteRule ^register.html$    	register.php
+    RewriteRule ^update-password-2.html$    	updatepass2.php
+     RewriteRule ^change-password-2.html$    	changepass2.php
+    RewriteRule ^thong-tin-tai-khoan.html$    	userinfo.php
+    RewriteRule ^nap-the.html$    	napthe.php
+    RewriteRule ^lich-su.html$    	lich-su.php
+    RewriteRule ^recharge.html$    	recharge.php
+    RewriteRule ^index.html$    	index.php
+    RewriteRule ^tranfer.html$    	tranfer.php
+</IfModule>

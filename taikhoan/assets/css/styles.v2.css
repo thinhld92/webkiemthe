@@ -1,0 +1,186 @@
+body {
+  padding-top: 80px;
+  /*background: rgba(255, 255, 255, 0.9)  url('http://home.volamthienha.com/wp-content/themes/volamthienha/images/bg-header.jpg') no-repeat;*/
+}
+
+.LockOff {
+	display: none;
+	visibility: hidden;
+}
+
+
+.LockOn {
+	display: block;
+	color:#f0f0f0;
+	font-size:larger;
+	visibility: visible;
+	position: fixed;
+	z-index: 999;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: #303030;
+	text-align: center;
+	padding-top: 20%;
+	filter: alpha(opacity=96);
+	opacity: 0.96;
+}
+
+@font-face {
+    font-family: myfont;
+    src: url(../fonts/MYRIADPRO-BOLD.OTF);
+}
+
+@font-face {
+    font-family: myfont1;
+    src: url(../fonts/MYRIADPRO-REGULAR.OTF);
+}
+
+.panel, .navbar-fixed-top {
+	box-shadow: 1px 1px 3px #888888;
+	background-color: #3b5998;
+}
+
+.panel.panel-primary {
+	background-color: rgba(255, 255, 255, 1);
+}
+
+.container > .row {
+	min-height: 100%;
+}
+
+.jumbotron {
+	padding:30px;
+	background-color: rgba(238, 238, 238,0.9);
+	box-shadow: 1px 1px 15px #888888;
+}
+
+.jumbotron h3 {
+	font-weight:bold;
+	font-size:22px;
+}
+
+.jumbotron p {
+	font-size:15px;
+}
+
+.footer{
+    padding-top: 5px;
+    /*background: rgba(238, 238, 238,0.5);*/
+    border-top: 1px solid #d9edf7;
+    min-height:50px;
+    line-height: 18px;
+    text-align: center;
+    /*font-style: italic;*/
+    color:green;
+    font-size:12px;
+}
+
+ .footer a {
+ 	color:black;
+ }
+
+.table thead tr.title-table th {
+	vertical-align: middle;
+    line-height: 35px;
+    font-size: 17px;
+    padding: 0px;
+    margin: 0px;
+    color: darkblue;
+}
+
+p.descript{
+	margin: 0px;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+    color: #b9a8a8;
+    padding: 5px 10px;
+    font-family: "Times New Roman",Arial,Tahoma;
+}
+p.descript b {
+	font-size:15px;
+	margin-top:15px;
+	display:block;
+	color:#A52A2A;
+	font-weight: bold;
+}
+
+form label {
+	font-weight: bold;
+    /*text-transform: uppercase;*/
+    clear: both;
+    display: block;
+    margin-top: 15px;
+    color: #411717;
+    opacity: 0.9;
+}
+
+form .form-group {
+	margin-top: 20px;
+}
+
+a:focus, a:hover {
+    color: #3b5998;
+    text-decoration: underline;
+}
+
+				.gi-3x {
+					font-size: 1.8em;
+					}
+					.zid_header_inner {
+					margin: 0 auto;
+					
+					padding-left: 10px;
+					padding-right: 10px;
+					
+					}
+					.zid_mainlogo  {
+					background-image: url(assets/images/logo.png);
+					background-repeat: no-repeat;
+					height: 50px;
+					width: 100px;
+					background-size: 100px 80px;
+					display: block;
+					margin: 0 auto;
+					text-indent: -999999em;
+					}
+					.zid_mainlogo {
+					padding: 0;
+					margin: -10px 0 0;
+					float: left;
+					}
+					.zid_pagetitle {
+					font-size: 21px;
+					line-height: normal;
+					color: #fff;
+					white-space: nowrap;
+					font-weight: normal;
+					text-align: center;
+					margin: 0 0 0 0;
+					padding: 13px 0 0 0;
+					}
+					.zid_mainexit {
+					height: 30px;
+					width: 100px;
+					color: #fff;
+					background-color: #6282bf;
+					background-size: 100px 30px;
+					display: block;
+					margin: 0 auto;
+					/* padding: 0; */
+					margin: -27px 0px 0 0;
+					float: right;
+					}
+					.zid_mainback {
+					height: 30px;
+					width: 100px;
+					color: #fff;
+					background-color: #6282bf;
+					background-size: 100px 30px;
+					display: block;
+					padding: 1px 0 0 0;
+					margin: 12px 0px 0 0;
+					float: left;
+					}

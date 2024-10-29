@@ -1,0 +1,12 @@
+[05-Dec-2023 01:04:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught InvalidArgumentException: Incorrect column name: loginName . in /home/kiemth16/demo3.kiemthehanthien.com/taikhoan/config/Medoo.php:732
+Stack trace:
+#0 /home/kiemth16/demo3.kiemthehanthien.com/taikhoan/config/Medoo.php(1728): Medoo\Medoo->columnQuote('loginName ')
+#1 /home/kiemth16/demo3.kiemthehanthien.com/taikhoan/ajax/register.php(67): Medoo\Medoo->insert('account', Array)
+#2 {main}
+  thrown in /home/kiemth16/demo3.kiemthehanthien.com/taikhoan/config/Medoo.php on line 732
+[05-Dec-2023 01:04:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught InvalidArgumentException: Incorrect column name: loginName . in /home/kiemth16/demo3.kiemthehanthien.com/taikhoan/config/Medoo.php:732
+Stack trace:
+#0 /home/kiemth16/demo3.kiemthehanthien.com/taikhoan/config/Medoo.php(1728): Medoo\Medoo->columnQuote('loginName ')
+#1 /home/kiemth16/demo3.kiemthehanthien.com/taikhoan/ajax/register.php(67): Medoo\Medoo->insert('account', Array)
+#2 {main}
+  thrown in /home/kiemth16/demo3.kiemthehanthien.com/taikhoan/config/Medoo.php on line 732

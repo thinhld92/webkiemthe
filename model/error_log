@@ -1,0 +1,3 @@
+[14-Dec-2022 09:57:48 Asia/Ho_Chi_Minh] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/kiemth14/public_html/model/head.php on line 1
+[14-Dec-2022 09:57:48 Asia/Ho_Chi_Minh] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/kiemth14/public_html/model/head.php on line 1
+[14-Dec-2022 09:57:48 Asia/Ho_Chi_Minh] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kiemth14/public_html/model/head.php on line 1
