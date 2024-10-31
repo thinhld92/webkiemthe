@@ -113,7 +113,7 @@ header {
     left: 48%;
     transform: translateX(-50%);
     transition: height 300ms;
-    height: 110px;
+    height: 150px;
 }
 
 .nav__menu-mobile {
@@ -953,7 +953,8 @@ ul.list li:last-child {
 }
 
 .bottom__content .bottom__maintenance {
-    background: url('../imgs/maintenance_up.png') top center no-repeat;
+    /* background: url('../imgs/maintenance_up.png') top center no-repeat; */
+    background: url('../imgs/maintenance1.png') top center no-repeat;
     width: 223px;
     height: 134px;
 }
@@ -1692,6 +1693,10 @@ footer p.Intro{
     color: #ffffff;
     padding-bottom: 20px;
 }
+
+footer p.Intro img{
+    max-height: 200px;
+}
 /*==================== POST DETAIN CONTAINNER ====================*/
 
 .detail__container {
@@ -1989,7 +1994,7 @@ footer p.Intro{
         background: url(../imgs/tongkim-tablet.png) bottom center no-repeat;
     }
     .bottom__content .bottom__maintenance {
-        background: url(../imgs/maintenance-tablet.png) top center no-repeat;
+        background: url(../imgs/maintenance1.png) top center no-repeat;
         width: 358px;
         height: 134px;
     }

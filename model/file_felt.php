@@ -70,48 +70,48 @@
 								<div class="day t2 list-content-daily"style="display: block;">
 									<div class="main-content custom-scrollbar">
 										<div class="item">
-											<div class="name">Bao Vạn Đồng</div>
+											<div class="name">Dã Tẩu</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Quân Doanh</div>
-											<div class="time">Đầu Giờ</div>
-										</div>
-										<div class="item">
-											<div class="name">Bạch Hổ Đường</div>
+											<div class="name">Boss Sát Thủ</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Tiêu Dao Cốc</div>
+											<div class="name">Phong Lăng Độ</div>
+											<div class="time">Cả Ngày</div>
+										</div>
+										<div class="item">
+											<div class="name">Vượt Ải</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
 											<div class="name">Tống Kim</div>
+											<div class="time">13h, 19h, 21h</div>
+										</div>
+										<div class="item">
+											<div class="name">Công Bình Tử</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 55</div>
+											<div class="name">Thiên Bảo Khố</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 75</div>
-											<div class="time">Cả Ngày</div>
+											<div class="name">Liên Đấu</div>
+											<div class="time">22h</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 95</div>
-											<div class="time">Cả Ngày</div>
-										</div>
-										<div class="item">
-											<div class="name">Lâu Lan Cổ Thành</div>
-											<div class="time">15h00</div>
+											<div class="name">Quả Huy Hoàng</div>
+											<div class="time">12h35, 22h35</div>
 										</div>
 										<div class="item">
 											<div class="name">Đoán Hoa Đăng</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Tần Thuỷ Hoàng</div>
-											<div class="time">22h35</div>
+											<div class="name">BOSS Hoàng Kim</div>
+											<div class="time">12h, 20h35</div>
 										</div>
 										
 										<div class="eJOY__extension_root_class" id="eJOY__extension_root" style="all: unset;">
@@ -121,48 +121,48 @@
 								<div class="day t3 list-content-daily">
 									<div class="main-content custom-scrollbar">
 										<div class="item">
-											<div class="name">Bao Vạn Đồng</div>
+											<div class="name">Dã Tẩu</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Quân Doanh</div>
-											<div class="time">Đầu Giờ</div>
-										</div>
-										<div class="item">
-											<div class="name">Bạch Hổ Đường</div>
+											<div class="name">Boss Sát Thủ</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Tiêu Dao Cốc</div>
+											<div class="name">Phong Lăng Độ</div>
+											<div class="time">Cả Ngày</div>
+										</div>
+										<div class="item">
+											<div class="name">Vượt Ải</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
 											<div class="name">Tống Kim</div>
+											<div class="time">13h, 19h, 21h</div>
+										</div>
+										<div class="item">
+											<div class="name">Công Bình Tử</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 55</div>
+											<div class="name">Thiên Bảo Khố</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 75</div>
-											<div class="time">Cả Ngày</div>
+											<div class="name">Liên Đấu</div>
+											<div class="time">22h</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 95</div>
-											<div class="time">Cả Ngày</div>
-										</div>
-										<div class="item">
-											<div class="name">Lâu Lan Cổ Thành</div>
-											<div class="time">15h00</div>
+											<div class="name">Quả Huy Hoàng</div>
+											<div class="time">12h35, 22h35</div>
 										</div>
 										<div class="item">
 											<div class="name">Đoán Hoa Đăng</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Tần Thuỷ Hoàng</div>
-											<div class="time">22h35</div>
+											<div class="name">BOSS Hoàng Kim</div>
+											<div class="time">12h, 20h35</div>
 										</div>
 										<div class="eJOY__extension_root_class" id="eJOY__extension_root" style="all: unset;">
 										&nbsp;</div>
@@ -171,48 +171,48 @@
 								<div class="day t4 list-content-daily">
 									<div class="main-content custom-scrollbar">
 										<div class="item">
-											<div class="name">Bao Vạn Đồng</div>
+											<div class="name">Dã Tẩu</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Quân Doanh</div>
-											<div class="time">Đầu Giờ</div>
-										</div>
-										<div class="item">
-											<div class="name">Bạch Hổ Đường</div>
+											<div class="name">Boss Sát Thủ</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Tiêu Dao Cốc</div>
+											<div class="name">Phong Lăng Độ</div>
+											<div class="time">Cả Ngày</div>
+										</div>
+										<div class="item">
+											<div class="name">Vượt Ải</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
 											<div class="name">Tống Kim</div>
+											<div class="time">13h, 19h, 21h</div>
+										</div>
+										<div class="item">
+											<div class="name">Công Bình Tử</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 55</div>
+											<div class="name">Thiên Bảo Khố</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 75</div>
-											<div class="time">Cả Ngày</div>
+											<div class="name">Liên Đấu</div>
+											<div class="time">22h</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 95</div>
-											<div class="time">Cả Ngày</div>
-										</div>
-										<div class="item">
-											<div class="name">Lâu Lan Cổ Thành</div>
-											<div class="time">15h00</div>
+											<div class="name">Quả Huy Hoàng</div>
+											<div class="time">12h35, 22h35</div>
 										</div>
 										<div class="item">
 											<div class="name">Đoán Hoa Đăng</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Tần Thuỷ Hoàng</div>
-											<div class="time">22h35</div>
+											<div class="name">BOSS Hoàng Kim</div>
+											<div class="time">12h, 20h35</div>
 										</div>
 										<div class="eJOY__extension_root_class" id="eJOY__extension_root" style="all: unset;">
 										&nbsp;</div>
@@ -221,48 +221,48 @@
 								<div class="day t5 list-content-daily">
 									<div class="main-content custom-scrollbar">
 										<div class="item">
-											<div class="name">Bao Vạn Đồng</div>
+											<div class="name">Dã Tẩu</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Quân Doanh</div>
-											<div class="time">Đầu Giờ</div>
-										</div>
-										<div class="item">
-											<div class="name">Bạch Hổ Đường</div>
+											<div class="name">Boss Sát Thủ</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Tiêu Dao Cốc</div>
+											<div class="name">Phong Lăng Độ</div>
+											<div class="time">Cả Ngày</div>
+										</div>
+										<div class="item">
+											<div class="name">Vượt Ải</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
 											<div class="name">Tống Kim</div>
+											<div class="time">13h, 19h, 21h</div>
+										</div>
+										<div class="item">
+											<div class="name">Công Bình Tử</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 55</div>
+											<div class="name">Thiên Bảo Khố</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 75</div>
-											<div class="time">Cả Ngày</div>
+											<div class="name">Liên Đấu</div>
+											<div class="time">22h</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 95</div>
-											<div class="time">Cả Ngày</div>
-										</div>
-										<div class="item">
-											<div class="name">Lâu Lan Cổ Thành</div>
-											<div class="time">15h00</div>
+											<div class="name">Quả Huy Hoàng</div>
+											<div class="time">12h35, 22h35</div>
 										</div>
 										<div class="item">
 											<div class="name">Đoán Hoa Đăng</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Tần Thuỷ Hoàng</div>
-											<div class="time">22h35</div>
+											<div class="name">BOSS Hoàng Kim</div>
+											<div class="time">12h, 20h35</div>
 										</div>
 										<div class="eJOY__extension_root_class" id="eJOY__extension_root" style="all: unset;">
 										&nbsp;</div>
@@ -271,48 +271,48 @@
 								<div class="day t6 list-content-daily">
 									<div class="main-content custom-scrollbar">
 										<div class="item">
-											<div class="name">Bao Vạn Đồng</div>
+											<div class="name">Dã Tẩu</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Quân Doanh</div>
-											<div class="time">Đầu Giờ</div>
-										</div>
-										<div class="item">
-											<div class="name">Bạch Hổ Đường</div>
+											<div class="name">Boss Sát Thủ</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Tiêu Dao Cốc</div>
+											<div class="name">Phong Lăng Độ</div>
+											<div class="time">Cả Ngày</div>
+										</div>
+										<div class="item">
+											<div class="name">Vượt Ải</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
 											<div class="name">Tống Kim</div>
+											<div class="time">13h, 19h, 21h</div>
+										</div>
+										<div class="item">
+											<div class="name">Công Bình Tử</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 55</div>
+											<div class="name">Thiên Bảo Khố</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 75</div>
-											<div class="time">Cả Ngày</div>
+											<div class="name">Liên Đấu</div>
+											<div class="time">22h</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 95</div>
-											<div class="time">Cả Ngày</div>
-										</div>
-										<div class="item">
-											<div class="name">Lâu Lan Cổ Thành</div>
-											<div class="time">15h00</div>
+											<div class="name">Quả Huy Hoàng</div>
+											<div class="time">12h35, 22h35</div>
 										</div>
 										<div class="item">
 											<div class="name">Đoán Hoa Đăng</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Tần Thuỷ Hoàng</div>
-											<div class="time">22h35</div>
+											<div class="name">BOSS Hoàng Kim</div>
+											<div class="time">12h, 20h35</div>
 										</div>
 										<div class="eJOY__extension_root_class" id="eJOY__extension_root" style="all: unset;">
 										&nbsp;</div>
@@ -321,48 +321,48 @@
 								<div class="day t7 list-content-daily">
 									<div class="main-content custom-scrollbar">
 										<div class="item">
-											<div class="name">Bao Vạn Đồng</div>
+											<div class="name">Dã Tẩu</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Quân Doanh</div>
-											<div class="time">Đầu Giờ</div>
-										</div>
-										<div class="item">
-											<div class="name">Bạch Hổ Đường</div>
+											<div class="name">Boss Sát Thủ</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Tiêu Dao Cốc</div>
+											<div class="name">Phong Lăng Độ</div>
+											<div class="time">Cả Ngày</div>
+										</div>
+										<div class="item">
+											<div class="name">Vượt Ải</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
 											<div class="name">Tống Kim</div>
+											<div class="time">13h, 19h, 21h</div>
+										</div>
+										<div class="item">
+											<div class="name">Công Bình Tử</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 55</div>
+											<div class="name">Thiên Bảo Khố</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 75</div>
-											<div class="time">Cả Ngày</div>
+											<div class="name">Liên Đấu</div>
+											<div class="time">22h</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 95</div>
-											<div class="time">Cả Ngày</div>
-										</div>
-										<div class="item">
-											<div class="name">Lâu Lan Cổ Thành</div>
-											<div class="time">15h00</div>
+											<div class="name">Quả Huy Hoàng</div>
+											<div class="time">12h35, 22h35</div>
 										</div>
 										<div class="item">
 											<div class="name">Đoán Hoa Đăng</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Tần Thuỷ Hoàng</div>
-											<div class="time">22h35</div>
+											<div class="name">BOSS Hoàng Kim</div>
+											<div class="time">12h, 20h35</div>
 										</div>
 										<div class="eJOY__extension_root_class" id="eJOY__extension_root" style="all: unset;">
 										&nbsp;</div>
@@ -371,48 +371,48 @@
 								<div class="day cn list-content-daily">
 									<div class="main-content custom-scrollbar">
 										<div class="item">
-											<div class="name">Bao Vạn Đồng</div>
+											<div class="name">Dã Tẩu</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Quân Doanh</div>
-											<div class="time">Đầu Giờ</div>
-										</div>
-										<div class="item">
-											<div class="name">Bạch Hổ Đường</div>
+											<div class="name">Boss Sát Thủ</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Tiêu Dao Cốc</div>
+											<div class="name">Phong Lăng Độ</div>
+											<div class="time">Cả Ngày</div>
+										</div>
+										<div class="item">
+											<div class="name">Vượt Ải</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
 											<div class="name">Tống Kim</div>
+											<div class="time">13h, 19h, 21h</div>
+										</div>
+										<div class="item">
+											<div class="name">Công Bình Tử</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 55</div>
+											<div class="name">Thiên Bảo Khố</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 75</div>
-											<div class="time">Cả Ngày</div>
+											<div class="name">Liên Đấu</div>
+											<div class="time">22h</div>
 										</div>
 										<div class="item">
-											<div class="name">Võ Lâm Cao Thủ 95</div>
-											<div class="time">Cả Ngày</div>
-										</div>
-										<div class="item">
-											<div class="name">Lâu Lan Cổ Thành</div>
-											<div class="time">15h00</div>
+											<div class="name">Quả Huy Hoàng</div>
+											<div class="time">12h35, 22h35</div>
 										</div>
 										<div class="item">
 											<div class="name">Đoán Hoa Đăng</div>
 											<div class="time">Cả Ngày</div>
 										</div>
 										<div class="item">
-											<div class="name">Tần Thuỷ Hoàng</div>
-											<div class="time">22h35</div>
+											<div class="name">BOSS Hoàng Kim</div>
+											<div class="time">12h, 20h35</div>
 										</div>
 										<div class="eJOY__extension_root_class" id="eJOY__extension_root" style="all: unset;">
 										&nbsp;</div>
