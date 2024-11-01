@@ -11,4 +11,5 @@ CKEDITOR.editorConfig = function( config ) {
     config.filebrowserImageUploadUrl = './js/ckeditor/ckfinder/core/connector/php/connector.php?command=QuickUpload&type=Images';
     config.filebrowserFlashUploadUrl = './js/ckeditor/ckfinder/core/connector/php/connector.php?command=QuickUpload&type=Flash';
 	config.height = '600px';
+    config.extraAllowedContent = '*(*)';
 };
