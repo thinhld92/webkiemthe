@@ -9,7 +9,7 @@ define('DBUSER','root');
 define('DBPASS','123456');
 define('DBNAME','kiemthe_demo');
 
-$db = new PDO("mysql:host=".DBHOST.";dbname=".DBNAME. ';charset=utf8', DBUSER, DBPASS);
+$db = new PDO("mysql:host=".DBHOST.";dbname=".DBNAME. ';charset=utf8mb4', DBUSER, DBPASS);
 $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 $db->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
 
